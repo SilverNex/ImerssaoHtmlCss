@@ -1,0 +1,35 @@
+body {
+    background-image: url('https://conteudoproduto.magazineluiza.com.br/22/224713300/assets/img/qualidade-4k.jpg');
+    background-size: 1919px 1050px;
+    font-family: Courier New;
+  }
+  
+  a {
+   color: whitesmoke;
+   text-decoration: none;
+  }
+  
+  a:hover {
+   text-decoration: underline; 
+  }
+  
+  .menu li {
+   list-style: none; 
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    text-align: center;
+    color:  #bab3b2;
+  }
+  
+  .site-subtitle {
+    color: whitesmoke;
+    text-decoration: underline;
+    font-style: italic;
+  }
